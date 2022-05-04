@@ -1,0 +1,11 @@
+table {
+  width: 100%;
+}
+
+.actions {
+  text-align: right;
+}
+
+.not-found-message {
+  text-align: center;
+}
