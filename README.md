@@ -69,7 +69,7 @@ Cadastro de pessoas é um projeto simples de front-end desenvolvido em Angular e
 
 MIT License
 
-Copyright (c) 2022
+Copyright (c) 2022 Brenner de Araújo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
