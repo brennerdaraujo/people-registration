@@ -61,7 +61,7 @@ Cadastro de pessoas é um projeto simples de front-end desenvolvido em Angular e
 
 ## Pessoas Desenvolvedoras do Projeto
 
-<a href="https://www.linkedin.com/in/brenner-de-ara%C3%BAjo-rodrigues-barbosa-b96a086b/">
+<a href="https://www.linkedin.com/in/brenner-barbosa/">
     <img src="./resources/dev.jpg" title="Brenner de Araújo" width="150"/>
 </a>
 <br><br>
